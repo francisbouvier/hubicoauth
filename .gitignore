@@ -1,0 +1,6 @@
+*.*~
+*.log
+.fuse_hidden*
+
+.ropeproject/
+hubicoauth
