@@ -6,7 +6,7 @@ A very simple web server in Go to handle HubiC oAuth process.
 
 **Standalone**
 
-Just download the executable and launch it.
+Just [download](https://github.com/francisbouvier/hubicoauth/releases) the last executable and launch it.
 
 ```sh
 user@host:~ $ ./hubicoauth
